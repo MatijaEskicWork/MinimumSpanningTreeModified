@@ -1,0 +1,3 @@
+Minimalno stablo grafa(obeleženo slovima)--->|A C ||E C ||C B ||B J ||G H ||I D ||D F ||F H ||H J
+Minimalno stablo grafa(obeleženo brojevima)---> |1 3 ||5 3 ||3 2 ||2 10 ||7 8 ||9 4 ||4 6 ||6 8 ||8 10 
+Minimalni trošak je 322
